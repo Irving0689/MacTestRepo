@@ -12,3 +12,7 @@ This is a Modify from branch master.
 
 
 Now, branch issue-101 modify the file(fixed bug).
+Modify from master.
+
+
+Modify from dev (Complished).
