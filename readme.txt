@@ -11,4 +11,4 @@ This is a git branch --- dev.
 This is a Modify from branch master.
 
 
-Now, branch issue-101 modify the file.
+Now, branch issue-101 modify the file(fixed bug).
